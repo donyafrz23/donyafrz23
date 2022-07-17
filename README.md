@@ -1,6 +1,6 @@
 ### Hi there, I'm Dony Afrizal
 
-## I'm a Enthuasiast Software Development
+## Enthusiast to Software Quality Assurance
 
 - Currently, learning software testing
 - I'm looking for internship opportunities SQA positions
