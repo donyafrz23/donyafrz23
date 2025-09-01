@@ -1,31 +1,44 @@
 ## Hi there 👋, I'm Dony Afrizal
+### Quality Assurance Engineer | Web & API Testing | Automation Enthusiast  
 
-### I'm a Enthusiast Software Quality Assurance
+---
 
-- 🏫 Currently, learning software testing
-- 💼 I'm looking for internship opportunities SQA positions
-- 🗨️ Discuss with me about everything
-- ✍️ Fun fact: I love to write poet and song🎸
+## 🚀 About Me  
+- 🔍 Passionate about ensuring product quality through **manual & automation testing**  
+- 🧪 Experienced in **Web, API, and Mobile Testing**  
+- 🛠️ Familiar with **Postman, Selenium, Cypress, Katalon, Robot Framework, JMeter**  
+- 📊 Always learning and improving testing workflows  
 
-### Tools:
+---
 
-<img align="left" alt="katalon" width="22px" src="https://asikin08.github.io/img/katalon.png" />
-<img align="left" alt="appium" width="22px" src="https://www.svgrepo.com/show/353413/appium.svg" />
-<img align="left" alt="selenium" width="22px" src="https://www.svgrepo.com/show/354321/selenium.svg" />
-<img align="left" alt="mysql" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+## 🧰 Tech Stack  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon-41B883?style=for-the-badge&logo=koding&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) -->
 
-<br />
+---
 
-### Connect with me:
+## 📂 Highlight Projects  
 
-[<img align="left" alt="linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />][medium]
-[<img align="left" alt="dribble" width="22px" src="https://simpleicons.org/icons/dribbble.svg" />][dribble]
-[<img align="left" alt="instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+<!-- 🔹 **[Automated Login Test (Selenium + Python)](https://github.com/yourusername/selenium-login-test)**  
+Automated test case for login functionality with reporting and CI/CD integration.   -->
 
-<br />
+🔹 **[API Testing Collection (Katalon)](https://github.com/donyafrz23/demo-REST-API-testing)**  
+Comprehensive API testing collection with environment setup & documentation.  
 
-[linkedin]: https://www.linkedin.com/in/donyafrizal/
-[medium]: https://medium.com/@afrz.dony
-[dribble]: https://dribbble.com/donyafrz/
-[instagram]: https://www.instagram.com/dony.afrz/
+<!-- 🔹 **[Performance Testing with JMeter](https://github.com/donyafrz23/demo-REST-API-testing)**  
+Simulated load testing scenario with reports for web application.   -->
+
+🔹 **[Robot Framework Test Suite](https://github.com/donyafrz23/campaign-rfw)**  
+Reusable Robot Framework scripts for web & mobile automation.  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/donyafrizal/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dony.afrz@gmail.com)
