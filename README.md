@@ -25,16 +25,16 @@
 
 ## 📂 Highlight Projects  
 
-🔹 **[Automated Test (Cypress)](https://github.com/yourusername/cypress-web-testing)**  
+🔹 **[Automated Test (Cypress)](https://github.com/donyafrzl/cypress-web-testing)**  
 Automated test case for open website and fill out the form.  
 
-🔹 **[API Testing Collection (Katalon)](https://github.com/donyafrz23/demo-REST-API-testing)**  
+🔹 **[API Testing Collection (Katalon)](https://github.com/donyafrzl/demo-REST-API-testing)**  
 Comprehensive API testing collection with environment setup & documentation.  
 
 <!-- 🔹 **[Performance Testing with JMeter](https://github.com/donyafrz23/demo-REST-API-testing)**  
 Simulated load testing scenario with reports for web application.   -->
 
-🔹 **[Robot Framework Test Suite](https://github.com/donyafrz23/campaign-rfw)**  
+🔹 **[Robot Framework Test Suite](https://github.com/donyafrzl/campaign-rfw)**  
 Reusable Robot Framework scripts for web & mobile automation.  
 
 ---
