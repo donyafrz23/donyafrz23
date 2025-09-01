@@ -25,8 +25,8 @@
 
 ## 📂 Highlight Projects  
 
-<!-- 🔹 **[Automated Login Test (Selenium + Python)](https://github.com/yourusername/selenium-login-test)**  
-Automated test case for login functionality with reporting and CI/CD integration.   -->
+🔹 **[Automated Test (Cypress)](https://github.com/yourusername/cypress-web-testing)**  
+Automated test case for open website and fill out the form.  
 
 🔹 **[API Testing Collection (Katalon)](https://github.com/donyafrz23/demo-REST-API-testing)**  
 Comprehensive API testing collection with environment setup & documentation.  
